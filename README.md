@@ -1,3 +1,4 @@
+Sistema simple de tickets para equipos
 
 
-Hola mundo
+Administre todos los correos electrónicos de los clientes en una sola aplicación. Ahorre tiempo en atención al cliente.
